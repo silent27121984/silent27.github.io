@@ -130,3 +130,8 @@ figure {
   background-color: #0c0c0c;
   text-align: center;
 }
+  .my-player {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
